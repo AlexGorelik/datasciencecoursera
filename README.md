@@ -1,2 +1,2 @@
-# datasciencecoursera
-## A repo for The Data Scientist’s Toolbox class
+## datasciencecoursera
+### A repo for The Data Science Track on Coursera
